@@ -1,0 +1,3 @@
+class Rastreio:
+    def rastrear_objeto(self):
+        ...
